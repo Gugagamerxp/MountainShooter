@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16d1319c-8771-4cd5-9fb7-71bd456f3756" name="Changes" comment="Adding correctly from StarUML">
+    <list default="true" id="16d1319c-8771-4cd5-9fb7-71bd456f3756" name="Changes" comment="Creating main loop&#10;Connecting Menu and Game classes">
+      <change afterPath="$PROJECT_DIR$/asset/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/514056__newlocknew__blaster-shot-7_2sytrusrsmpl2lrsmultiprcsngsingle.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/809205__prazkhanalmusic__lean-on-hiphop-instrumental.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/810753__mokasza__level-up-01.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/menuBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/menu_music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/nave1-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/nave2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/nave3-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/player_nave-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +62,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\PycharmProjects\mountainshooter\MountainShooter\asset" />
       <recent name="C:\Users\Pichau\PycharmProjects\mountainshooter\MountainShooter\code" />
     </key>
   </component>
@@ -142,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750598937421</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating main loop&#10;Connecting Menu and Game classes">
+      <option name="closed" value="true" />
+      <created>1750600507602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750600507602</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +183,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Adding classes generated from StarUML" />
     <MESSAGE value="Adding correctly from StarUML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding correctly from StarUML" />
+    <MESSAGE value="Creating main loop&#10;Connecting Menu and Game classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating main loop&#10;Connecting Menu and Game classes" />
   </component>
 </project>
