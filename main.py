@@ -1,3 +1,5 @@
+#  Primeiros conceitos: git,github,intalacao e funcionamento do pygame
+
 import pygame
 
 print('setup start')
@@ -16,3 +18,13 @@ while True:
         if event.type == pygame.QUIT:
             pygame.quit()  # close window
             quit()  # end pygame
+
+
+# Aula pratica 2
+# Diagramacao UMl do jogo
+# Estruturar as classes
+# Criar o menu
+# Criar o background,som e fontes da priemria fase
+
+
+
