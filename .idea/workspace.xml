@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16d1319c-8771-4cd5-9fb7-71bd456f3756" name="Changes" comment="Adding classes generated from StarUML">
-      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/entityFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
+    <list default="true" id="16d1319c-8771-4cd5-9fb7-71bd456f3756" name="Changes" comment="Adding correctly from StarUML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +46,12 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Menu">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\PycharmProjects\mountainshooter\MountainShooter\code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="Menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MountainShooter" />
       <option name="ENV_FILES" value="" />
@@ -135,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750556989339</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding correctly from StarUML">
+      <option name="closed" value="true" />
+      <created>1750598937421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750598937421</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Adding classes generated from StarUML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding classes generated from StarUML" />
+    <MESSAGE value="Adding correctly from StarUML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding correctly from StarUML" />
   </component>
 </project>
