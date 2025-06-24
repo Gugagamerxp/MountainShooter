@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16d1319c-8771-4cd5-9fb7-71bd456f3756" name="Changes" comment="Creating main loop&#10;Connecting Menu and Game classes">
-      <change afterPath="$PROJECT_DIR$/asset/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/514056__newlocknew__blaster-shot-7_2sytrusrsmpl2lrsmultiprcsngsingle.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/809205__prazkhanalmusic__lean-on-hiphop-instrumental.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/810753__mokasza__level-up-01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/menuBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/menu_music.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/nave1-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/nave2-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/nave3-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/player_nave-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/const.py" afterDir="false" />
+    <list default="true" id="16d1319c-8771-4cd5-9fb7-71bd456f3756" name="Changes" comment="Creating asset folder&#10;Inserting all assets&#10;Creating the menu: background , sound and fonts&#10;Creating the const file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -51,15 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Menu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Menu.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature__level"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Pichau\PycharmProjects\mountainshooter\MountainShooter\asset" />
@@ -165,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750600507602</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creating asset folder&#10;Inserting all assets&#10;Creating the menu: background , sound and fonts&#10;Creating the const file">
+      <option name="closed" value="true" />
+      <created>1750609780135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750609780135</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +182,7 @@
     <MESSAGE value="Adding classes generated from StarUML" />
     <MESSAGE value="Adding correctly from StarUML" />
     <MESSAGE value="Creating main loop&#10;Connecting Menu and Game classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating main loop&#10;Connecting Menu and Game classes" />
+    <MESSAGE value="Creating asset folder&#10;Inserting all assets&#10;Creating the menu: background , sound and fonts&#10;Creating the const file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating asset folder&#10;Inserting all assets&#10;Creating the menu: background , sound and fonts&#10;Creating the const file" />
   </component>
 </project>
