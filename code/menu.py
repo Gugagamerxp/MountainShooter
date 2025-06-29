@@ -16,7 +16,7 @@ class Menu:
 
         # Trazendo imagem para projeto e salvando no objeto surf:
 
-        self.surf = pygame.image.load('./asset/menuBg.png')
+        self.surf = pygame.image.load('./asset/menuBg.png').convert_alpha()
 
         # Criando um objeto( rect) e utilizando o objeto com a imagem
         # para fazer um retangulo onde a imagem ficara passando parametros(left,top)
@@ -47,7 +47,7 @@ class Menu:
             # para depois mostrar o texto na tela(linha 46)
 
             self.menu_text(60, "City", COLOR_SKY_BLUE, ((WIN_WIDTH / 2), 70))
-            self.menu_text(60, "Shooter", COLOR_NEON_RED, ((WIN_WIDTH / 2), 130))
+            self.menu_text(60, "Shooting", COLOR_NEON_RED, ((WIN_WIDTH / 2), 130))
 
             for i in range(len(MENU_OPTION)):
                 if i == menu_option:

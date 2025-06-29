@@ -4,21 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16d1319c-8771-4cd5-9fb7-71bd456f3756" name="Changes" comment="Changing menu">
-      <change afterPath="$PROJECT_DIR$/asset/menu1.png" afterDir="false" />
+    <list default="true" id="16d1319c-8771-4cd5-9fb7-71bd456f3756" name="Changes" comment="Creating menu interations&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax">
+      <change afterPath="$PROJECT_DIR$/asset/Enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Enemy3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/Level1Bg4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/menuBg.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/menuBg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/background.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/809205__prazkhanalmusic__lean-on-hiphop-instrumental.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/asset/level1.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/nave1-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/nave2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/nave3-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/player2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/player_nave-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/player1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entityFactory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750609780135</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creating menu interations&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax">
+      <option name="closed" value="true" />
+      <created>1750866494743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750866494743</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +204,7 @@
     <MESSAGE value="Adding correctly from StarUML" />
     <MESSAGE value="Creating main loop&#10;Connecting Menu and Game classes" />
     <MESSAGE value="Creating asset folder&#10;Inserting all assets&#10;Creating the menu: background , sound and fonts&#10;Creating the const file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating asset folder&#10;Inserting all assets&#10;Creating the menu: background , sound and fonts&#10;Creating the const file" />
+    <MESSAGE value="Creating menu interations&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating menu interations&#10;Creating ABC class&#10;Creating Factory&#10;Level 1 Bg implementation: parallax" />
   </component>
 </project>
