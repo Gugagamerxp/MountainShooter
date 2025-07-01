@@ -10,6 +10,4 @@ class Enemy(Entity):
 
     def move(self, ):
         self.rect.centerx -= ENTITY_SPEED[self.name]
-        # quando a tela chegar no final ela voltara para a esquerda
-        if self.rect.right <= 0:
-            self.rect.left = WIN_WIDTH
+        
