@@ -6,8 +6,7 @@ import pygame
 from pygame import Surface, Rect
 from pygame.font import Font
 
-from code.const import WIN_WIDTH, COLOR_LIGHT_GREEN, COLOR_PURPLE, MENU_OPTION, COLOR_WHITE, COLOR_SKY_BLUE, \
-    COLOR_NEON_RED, COLOR_YELLOW
+from code.const import C_BLACK_BLUE, C_GREEN_BLUE, WIN_WIDTH, C_YELLOW, MENU_OPTION, C_WHITE
 
 
 class Menu:
@@ -46,14 +45,14 @@ class Menu:
             # Lembrar sempre de manter a ordem primeiro precisa desenhar o fundo (linha 41),
             # para depois mostrar o texto na tela(linha 46)
 
-            self.menu_text(60, "City", COLOR_SKY_BLUE, ((WIN_WIDTH / 2), 70))
-            self.menu_text(60, "Shooting", COLOR_NEON_RED, ((WIN_WIDTH / 2), 130))
+            self.menu_text(60, "City", C_BLACK_BLUE, ((WIN_WIDTH / 2), 70))
+            self.menu_text(60, "Shooting", C_GREEN_BLUE, ((WIN_WIDTH / 2), 130))
 
             for i in range(len(MENU_OPTION)):
                 if i == menu_option:
-                    self.menu_text(20, MENU_OPTION[i], COLOR_YELLOW, ((WIN_WIDTH / 2), 200 + 26 * i))
+                    self.menu_text(20, MENU_OPTION[i], C_YELLOW, ((WIN_WIDTH / 2), 200 + 26 * i))
                 else:
-                    self.menu_text(20, MENU_OPTION[i], COLOR_WHITE, ((WIN_WIDTH / 2), 200 + 26 * i))
+                    self.menu_text(20, MENU_OPTION[i], C_WHITE, ((WIN_WIDTH / 2), 200 + 26 * i))
             pygame.display.flip()
 
             # Mesmo apos isso tudo e preciso usar um metodo para poder atualizar a tela
